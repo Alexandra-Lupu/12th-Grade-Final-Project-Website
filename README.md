@@ -1,4 +1,4 @@
-#Robotics and Automation
+# Robotics and Automation
 
 This website takes you through the fascinating journey of robotics and automation, from their early beginnings to modern advancements.
 Learn about the history and evolution of robots, the different types of robots developed over the years, and their growing impact across industries such as manufacturing, healthcare, and more. 
